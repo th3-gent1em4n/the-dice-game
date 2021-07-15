@@ -1,0 +1,103 @@
+#top{
+  background-color: whitesmoke;
+  padding: 3% 5%;
+  text-align: center;
+}
+
+.button1
+{
+  width:10%;
+  padding: 0.35rem 1.2rem;
+  background-color: white;
+  border: 0.1rem solid #52616B;
+  margin: 0 0.3rem 0.3rem 0;
+  border-radius: 0.12rem;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Ubuntu';
+  font-weight: 600;
+  font-size: 1.7rem;
+  color: #52616B;
+  text-align: center;
+  transition: all 0.2s;
+}
+  
+.button1:hover{
+  background-color: whitesmoke;
+  cursor: pointer;
+}
+  
+
+.container {
+  
+  background-color: white;
+  margin: auto;
+  text-align: center;
+  padding: 5% 7%;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  padding: 1% 1%;
+}
+
+body {
+  color: white;
+  margin: 0;
+}
+
+.name{
+  margin: 30px;
+  font-family: 'Courgette', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #C9D6DF;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Montserrat';
+  font-size: 2.7rem;
+  color: #52616B;
+}
+
+h2{
+  font-family: "Ubuntu";
+  color: #52616B;
+}
+
+.p-top {
+  font-size: 1.5rem;
+  color: #52616B;
+  font-family: 'Dancing Script',cursive;
+  font-weight: 650;
+}
+
+
+
+.result{
+  margin-top: 3%;
+  font-family: "Montserrat";
+  color: #52616B;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.result1{
+  font-family: "Ubuntu";
+  color: #52616B;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+#footer {
+  padding: 3% 5%;
+  color: #52616B;
+  font-size: 1.2rem;
+  background-color: whitesmoke;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
